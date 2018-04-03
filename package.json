@@ -1,0 +1,23 @@
+{
+  "name": "crowdsale-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "ethereumjs-wallet": "^0.6.0",
+    "web3": "^0.20.4",
+    "web3-provider-engine": "^13.8.0",
+    "zeppelin-solidity": "1.6.0"
+  }
+}
